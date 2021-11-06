@@ -1,0 +1,104 @@
+body {
+	background-color: white;
+}
+
+.mainSpaceBackground {
+	background-image: url("pattern.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	position: absolute;
+	top:15%;
+	left:20%;
+	width:80%;
+	height:85%;
+	
+}	
+
+.mainSpace{
+	background-color: #96C2FF;
+	opacity: 0.925;
+	position: absolute;
+	width: 95%;
+	height: 95%;
+	top:2.5%;
+	left:2.5%;
+}
+
+.mainSpaceHeader{
+	font-size:24pt;
+	text-align:center;
+}
+
+.mainSpaceText{
+	font-size:24pt;
+	text-align:center;
+	font-size:24pt;
+	line-height:175%;	
+}
+
+.navBar {
+	background-color: #E3E1D3;
+	position:absolute;
+	top:0%;
+	height: 15%;
+	width: 80%;
+	left: 20%;
+}
+
+.navBarTable{
+ 	line-height:0.6;
+ 	font-size:36pt;
+ }
+ 
+ .sideBar{
+     width: 20%;
+ 	height: 100%;	
+ 	position: absolute;
+ 	left:0;
+ 	top:0;
+ 	padding-top:0;
+ 	background-color: #52B3BA;
+ }	
+ 
+ .contactBox{
+ 	box-shadow: 0 0 5px 5px rgba(0, 140, 186, 0.5);
+ 	background-color: #5B82BA;
+ 	width: 75%;
+ 	height: 60%;
+ 	position: absolute;
+ 	top: 35.5%;
+ 	left: 12.5%;	
+ }
+ 
+ .myPhoto {
+ 	width: 60%;
+ 	height: 60%;
+ 	position: absolute;
+ 	top: 2.5%;
+ 	left: 12.5%;
+ }
+ 
+ .quickInfo{
+ 	text-align: center;
+ 	font-size:36pt;
+ 	top: 1%;
+ }
+ 
+ .shortAboutMe{
+ 	position:relative;
+ 	bottom:6.5%;
+ 	line-height: 0.4;
+ 	text-align: center;
+ 	font-size: 12pt;
+ }
+
+.contactInfo{
+	position:relative;
+	top:6.5%;
+	line-height: 0.4;
+	text-align: center;
+	font-size: 12pst;
+	
+}
+
