@@ -3,7 +3,7 @@ body {
 }
 
 .mainSpaceBackground {
-	background-image: url("pattern.jpg");
+	background-image: url("Images/pattern.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -85,6 +85,13 @@ body {
 	text-align: center;
 	font-size:36pt;
 	top: 1%;
+}
+
+.skills{
+	position:relative;
+	line-height:0.4;
+	text-align:center;
+	font-size:12pt;
 }
 
 .shortAboutMe{
